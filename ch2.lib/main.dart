@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../widgets/button.dart';
-import '../widgets/currency_cardy.dart';
+import 'widgets/button.dart';
+import 'widgets/currency_cardy.dart';
 
 void main() {
   runApp(const App());
